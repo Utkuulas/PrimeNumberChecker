@@ -1,5 +1,5 @@
 ﻿# PrimeNumberChecker
 
-*This is my very first java project for github*
+*This is a basic program that checks whether input value is prime number or not.*
 
 
